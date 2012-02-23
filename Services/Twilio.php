@@ -1,4 +1,6 @@
 <?php
+defined( '_JEXEC' ) or die;
+
 
 function Services_Twilio_autoload($className) {
     if (substr($className, 0, 15) != 'Services_Twilio') {

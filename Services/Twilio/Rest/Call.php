@@ -1,4 +1,6 @@
 <?php
+defined( '_JEXEC' ) or die;
+
 
 class Services_Twilio_Rest_Call
     extends Services_Twilio_InstanceResource

@@ -1,4 +1,6 @@
 <?php
+defined( '_JEXEC' ) or die;
+
 
 /**
  * DataProxy implementation using an array for storage backend.

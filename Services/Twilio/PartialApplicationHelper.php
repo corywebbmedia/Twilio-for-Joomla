@@ -1,4 +1,6 @@
 <?php
+defined( '_JEXEC' ) or die;
+
 
 /**
  * Helper class to wrap an object with a modified interface created by

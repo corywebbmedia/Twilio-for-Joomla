@@ -1,4 +1,6 @@
 <?php
+defined( '_JEXEC' ) or die;
+
 
 /**
  * Abstraction of a list resource from the Twilio API.

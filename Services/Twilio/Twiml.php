@@ -1,4 +1,6 @@
 <?php
+defined( '_JEXEC' ) or die;
+
 
 /**
  * Exception class for Services_Twilio_Twiml.

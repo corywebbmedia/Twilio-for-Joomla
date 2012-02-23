@@ -1,4 +1,6 @@
 <?php
+defined( '_JEXEC' ) or die;
+
 
 /**
  * DataProxy implmentation that caches the output of the proxy it wraps.
