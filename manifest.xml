@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="2.5.0">
+	<name>Twilio</name>
+	<libraryname>twilio</libraryname>
+	<author>Adam Balai, Asher Snyder, John Britton, Kyle Conroy, Joseph LeBlanc</author>
+	<creationDate>February 2012</creationDate>
+	<copyright>Copyright (C) 2011</copyright>
+	<license>MIT</license>
+	<authorEmail>joe@corywebbmedia.com</authorEmail>
+	<authorUrl>www.corywebbmedia.com</authorUrl>
+	<version>3.2.2</version>
+	<description>A SDK (or helper library, as we&apos;re calling them) for PHP developers to write applications against Twilio&apos;s REST API and generate TwiML responses.</description>
+
+	<files>
+		<folder>Services/.</folder>
+	</files>
+</extension>
