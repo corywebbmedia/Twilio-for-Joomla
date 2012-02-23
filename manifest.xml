@@ -12,6 +12,6 @@
 	<description>A SDK (or helper library, as we&apos;re calling them) for PHP developers to write applications against Twilio&apos;s REST API and generate TwiML responses.</description>
 
 	<files>
-		<folder>Services/.</folder>
+		<folder>Services</folder>
 	</files>
 </extension>
